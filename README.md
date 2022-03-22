@@ -17,5 +17,5 @@
 
  ### 🏆 Certifications</b></summary>
 <div align="left">
-
+<img height="50" src="https://github.com/angelicafranca94/angelicafranca/blob/main/logos/azure-data-fundamentals-600x600.png" title="C#" alt="C#" /></code>
 </div>
