@@ -17,7 +17,7 @@
 
  #
  
-<p> Estas são as linguagens que estou mais utilizando em meus projetos do GitHub ⤵ </p>
+<p> Most used languages in my projects on GitHub ⤵ </p>
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -50,6 +50,6 @@
 
 #
 
-## Total de visitantes
+## Total visitors
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=angelicafranca94.angelicafranca94)
