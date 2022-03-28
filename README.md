@@ -47,3 +47,9 @@
 <a href="https://www.linkedin.com/in/angelicafranca1994/">
 <img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin Profile" alt="Linkedin Profile" /></code>
 </a>
+
+#
+
+## Total de visitantes
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=angelicafranca94.angelicafranca94)
