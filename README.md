@@ -16,6 +16,14 @@
 </p>
 
  #
+ 
+<p> Estas são as linguagens que estou mais utilizando em meus projetos do GitHub ⤵ </p>
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94)](https://github.com/anuraghazra/github-readme-stats)
+
+![Angélica França's github stats](https://github-readme-stats.vercel.app/api?username=angelicafranca94&show_icons=true&theme=dracula)
+
+ #
 
  ### 🏆 Certifications</b></summary>
 <div align="left">
