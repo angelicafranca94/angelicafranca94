@@ -17,7 +17,7 @@
 
  #
  
-<p> Most used languages in my projects on GitHub ⤵ </p>
+<p> Most used languages in my projects on GitHub ⤵ </p></b></summary>
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94)](https://github.com/anuraghazra/github-readme-stats)
 
