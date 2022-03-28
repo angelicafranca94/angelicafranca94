@@ -18,9 +18,9 @@
  #
  
 <p> Most used languages in my projects on GitHub ⤵ </p>
-
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📈 My GitHub Stats </b></summary>
 ![Angélica França's github stats](https://github-readme-stats.vercel.app/api?username=angelicafranca94&show_icons=true&theme=dracula)
 
  #
