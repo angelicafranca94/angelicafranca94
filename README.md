@@ -14,29 +14,29 @@
 
  #
  
-<p> Most used languages in my projects on GitHub ⤵ </p></b></summary>
+<p> Most used languages in my projects on GitHub ⤵ </p>
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
-### 📈 My GitHub Stats </b></summary>
+### 📈 My GitHub Stats 
 ![Angélica França's github stats](https://github-readme-stats.vercel.app/api?username=angelicafranca94&show_icons=true&theme=dracula)
 
  #
 
- ### 🏆 Certifications</b></summary>
+ ### 🏆 Certifications
 <div align="left">
 <a href="https://www.credly.com/earner/earned/badge/a3253688-a851-47d3-8cfd-964cd5774d56">
-<img height="100" src="https://github.com/angelicafranca94/angelicafranca/blob/main/blob/logos/azure-data-fundamentals-600x600.png" title="Azure Data Fundamentals-DP900" alt="Azure Data Fundamentals-DP900" /></code>
+<img height="100" src="https://github.com/angelicafranca94/angelicafranca/blob/main/blob/logos/azure-data-fundamentals-600x600.png" title="Azure Data Fundamentals-DP900" alt="Azure Data Fundamentals-DP900" />
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/e0c62a81-ee7b-424f-951b-8db385e8da1d">
-<img height="100" src="https://github.com/angelicafranca94/angelicafranca/blob/main/blob/logos/MTA-Software_Development_Fundamentals-600x600.png" title="MTA: Software Development Fundamentals" alt="MTA: Software Development Fundamentals" /></code>
+<img height="100" src="https://github.com/angelicafranca94/angelicafranca/blob/main/blob/logos/MTA-Software_Development_Fundamentals-600x600.png" title="MTA: Software Development Fundamentals" alt="MTA: Software Development Fundamentals" />
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/ee0ca66d-31eb-4722-ad42-328a4286b207">
-<img height="100" src="https://github.com/angelicafranca94/angelicafranca/blob/main/blob/logos/MTA-Database_Fundamentals-600x600.png" title="MTA: Database Fundamentals" alt="MTA: Database Fundamentals" /></code>
+<img height="100" src="https://github.com/angelicafranca94/angelicafranca/blob/main/blob/logos/MTA-Database_Fundamentals-600x600.png" title="MTA: Database Fundamentals" alt="MTA: Database Fundamentals" />
 </a>
 
 </div>
@@ -45,7 +45,7 @@
 
 ### 🌐 Linkedin</b></summary>
 <a href="https://www.linkedin.com/in/angelicafranca1994/">
-<img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin Profile" alt="Linkedin Profile" /></code>
+<img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin Profile" alt="Linkedin Profile" />
 </a>
 
 #
