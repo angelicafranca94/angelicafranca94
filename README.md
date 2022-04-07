@@ -1,6 +1,6 @@
 ### 🚀 Languages and Tools:</summary>
 
-<p align="left">
+<div style="display">
 
 <img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" title=".NET" alt=".NET" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
@@ -13,7 +13,7 @@
 <img width="30" height="30" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" />
 
 
-</p>
+</div>
 
  #
  
