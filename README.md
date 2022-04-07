@@ -43,7 +43,7 @@
 
 #
 
-### 🌐 Linkedin
+### 🌐 Linkedin Profile
 <a href="https://www.linkedin.com/in/angelicafranca1994/">
 <img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin Profile" alt="Linkedin Profile" />
 </a>
