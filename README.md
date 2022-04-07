@@ -49,9 +49,9 @@
 </a>
 
 #
-
+<div align="left">
 ![Snake animation](https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/output/github-contribution-grid-snake.svg)
-
+</div>
 
 #
 
