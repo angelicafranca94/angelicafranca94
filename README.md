@@ -1,6 +1,6 @@
 ### 🚀 Languages and Tools:</summary>
 
-<div style="display: inline_block"><br>
+<div align="left">
 <img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" title=".NET" alt=".NET" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
 <img width="30" height="30" src="https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/>
@@ -50,8 +50,8 @@
 
 #
 
-![Snake animation](https://github.com/angelicafranca94/angelicafranca94/blob/main/output/github-contribution-grid-snake.svg)
-<img src="https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/output/github-contribution-grid-snake.svg" title="Snake animation" alt="Snake animation"/>
+![Snake animation](https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/output/github-contribution-grid-snake.svg)
+
 
 #
 
