@@ -43,18 +43,17 @@
 
 #
 
-### 🌐 Linkedin</b></summary>
+### 🌐 Linkedin
 <a href="https://www.linkedin.com/in/angelicafranca1994/">
 <img height="60" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Linkedin Profile" alt="Linkedin Profile" />
 </a>
 
 #
 
-![Snake animation](https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/output/github-contribution-grid-snake.svg)
-
-
-#
-
 ### 🚪 Total visitors</b></summary>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=angelicafranca94.angelicafranca94)
+
+#
+
+![Snake animation](https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/output/github-contribution-grid-snake.svg)
