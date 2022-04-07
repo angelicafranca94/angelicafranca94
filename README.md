@@ -53,6 +53,10 @@
 
 #
 
+![Snake animation](https://raw.githubusercontent.com/angelicafranca94/angelicafranca94/2c8104af2989f205f549cd87e3a22d0602d62fde/blob/output/github-contribution-grid-snake.svg)
+
+#
+
 ### 🚪 Total visitors</b></summary>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=angelicafranca94.angelicafranca94)
