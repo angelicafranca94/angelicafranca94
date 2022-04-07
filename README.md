@@ -4,7 +4,7 @@
 
 <img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" title=".NET" alt=".NET" /></code>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
-<img width="30" height="30" src="https://github.com/angelicafranca94/angelicafranca/blob/logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
+<img width="30" height="30" src="https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
 <img height="30" src="https://github.com/angelicafranca94/angelicafranca/blob/logos/Microsoft_Visual_Studio_2022.png" title="VisualStudio" alt="VisualStudio" /></code>
 <img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VsCode" alt="VsCode">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
