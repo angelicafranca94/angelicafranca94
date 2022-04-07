@@ -53,7 +53,8 @@
 
 #
 
-![Snake animation](https://github.com/angelicafranca94/angelicafranca94/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/angelicafranca94/angelicafranca94/blob/main/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/angelicafranca94/angelicafranca94/blob/output/github-contribution-grid-snake.svg" title="Snake animation" alt="Snake animation"/>
 
 #
 
