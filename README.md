@@ -1,7 +1,6 @@
 ### 🚀 Languages and Tools:</summary>
 
-<div style="display">
-
+<div style="display: inline_block"><br>
 <img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" title=".NET" alt=".NET" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
 <img width="30" height="30" src="https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/>
@@ -11,8 +10,6 @@
 <img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" alt="GitHub">
 <img width="30" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" />
 <img width="30" height="30" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" />
-
-
 </div>
 
  #
