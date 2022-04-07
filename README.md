@@ -2,15 +2,15 @@
 
 <p align="left">
 
-<img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" title=".NET" alt=".NET" /></code>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
-<img width="30" height="30" src="https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/></code>
-<img height="30" src="https://github.com/angelicafranca94/angelicafranca/blob/main/blob/logos/Microsoft_Visual_Studio_2022.png" title="VisualStudio" alt="VisualStudio" /></code>
+<img height="30" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" title=".NET" alt=".NET" />
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
+<img width="30" height="30" src="https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/logos/microsoft-sql-server.png" title="SQL Server" alt="SQL Server"/>
+<img height="30" src="https://github.com/angelicafranca94/angelicafranca/blob/main/blob/logos/Microsoft_Visual_Studio_2022.png" title="VisualStudio" alt="VisualStudio" />
 <img height="30" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" title="VsCode" alt="VsCode">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" height="30" width="40"/>
 <img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" alt="GitHub">
-<img width="30" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
-<img width="30" height="30" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
+<img width="30" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" />
+<img width="30" height="30" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" />
 
 
 </p>
