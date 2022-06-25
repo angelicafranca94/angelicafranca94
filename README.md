@@ -15,12 +15,12 @@
  
 ### 🚀 Most used languages in my projects on GitHub ⤵
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94&theme=merko&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94&theme=gruvbox&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
 ### 📈 My GitHub Stats 
-![Angélica França's github stats](https://github-readme-stats.vercel.app/api?username=angelicafranca94&show_icons=true&theme=merko&hide_title=true&hide=contribs,prs,issues)
+![Angélica França's github stats](https://github-readme-stats.vercel.app/api?username=angelicafranca94&show_icons=true&theme=gruvbox&hide_title=true&hide=contribs,prs,issues)
 
  #
 
