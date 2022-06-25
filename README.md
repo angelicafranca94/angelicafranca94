@@ -1,4 +1,4 @@
-### 🚀 Languages and Tools: <br>
+### 🛠 Languages and Tools: <br>
 
 <div align="left">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" />
@@ -13,14 +13,14 @@
 
  #
  
-<p> Most used languages in my projects on GitHub ⤵ </p>
+### 🚀 Most used languages in my projects on GitHub ⤵
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94&theme=merko&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
 ### 📈 My GitHub Stats 
-![Angélica França's github stats](https://github-readme-stats.vercel.app/api?username=angelicafranca94&show_icons=true&theme=dracula)
+![Angélica França's github stats](https://github-readme-stats.vercel.app/api?username=angelicafranca94&show_icons=true&theme=merko&hide_title=true&hide=contribs,prs,issues)
 
  #
 
