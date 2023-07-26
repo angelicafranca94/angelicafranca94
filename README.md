@@ -1,9 +1,15 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bdd9b3&height=120&section=header"/>
 
-## Hi! <img height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" title="C#" alt="C#" /> Angélica here 🙃 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bdd9b3&size=30&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Angélica+França;I'm+a+back-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelicafranca94&bg_color=0d1117&color=bdd9b3&line=bdd9b3&point=bdd9b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=angelicafranca94&show_icons=true&count_private=true&hide_border=true&title_color=bdd9b3&icon_color=bdd9b3&text_color=c9d1d9&bg_color=0d1117" alt="Angélica França github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94&layout=compact&hide_border=true&title_color=bdd9b3&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+ #
 
 ### 🛠 Languages and Tools: <br>
 
@@ -17,17 +23,6 @@
 <img width="30" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" />
 <img width="30" height="30" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" />
 </div>
-
- #
- 
-### 🚀 Most used languages in my projects on GitHub ⤵
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=angelicafranca94&theme=gruvbox&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-#
-
-### 📈 My GitHub Stats 
-![Angélica França's github stats](https://github-readme-stats.vercel.app/api?username=angelicafranca94&show_icons=true&theme=gruvbox&hide_title=true&hide=contribs,prs,issues)
 
  #
 
@@ -63,3 +58,5 @@
 #
 
 ![Snake animation](https://github.com/angelicafranca94/angelicafranca94/blob/main/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bdd9b3&height=120&section=footer"/>
